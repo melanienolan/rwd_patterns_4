@@ -1,1 +1,2 @@
 # rwd_patterns_4
+An exapmle of the 'Off Canvas' pattern: three columns, two of which are hidden for smaller screens. Site has two breaking points (500px and 700px): two columns are visible at the first breaking point and three columns are visible after the second breaking point.
